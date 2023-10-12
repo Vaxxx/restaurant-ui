@@ -4,10 +4,10 @@ import Slider from '@/components/Slider'
 
 export default function Home() {
   return (
-    <main>
-      <Slider/>
-      <Featured/>
-      <Offer/>
-    </main>
+     <main>
+       <Slider/>
+       <Featured/>
+       <Offer/>
+     </main>
   )
 }
